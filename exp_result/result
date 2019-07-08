@@ -1,0 +1,4 @@
+PathFinder: evaluation loss 0.000296
+Fossil: evaluation loss 0.001257
+FISM: evaluation loss 0.001407
+RNN: evaluation loss 0.001120
