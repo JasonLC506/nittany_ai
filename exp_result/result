@@ -2,3 +2,5 @@ PathFinder: evaluation loss 0.000296
 Fossil: evaluation loss 0.001257
 FISM: evaluation loss 0.001407
 RNN: evaluation loss 0.001120
+PathFinder_average: 0.000422
+PathFinder_inner: 0.000334
